@@ -1,0 +1,43 @@
+# Xcode
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.playground
+xcUserData/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Swift Package Manager
+.swiftpm/
+.build/
+*.xcarchive
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*~.nib
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.log
+.ruby-version
+
+# GoogleService-Info.plist
+GoogleService-Info.plist
